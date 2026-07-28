@@ -1,8 +1,8 @@
-# Glyph Passgen
+# Glyph
 
 > Fortify your Secrets. Invulnerable credentials in seconds.
 
-Glyph Passgen is a secure and user-friendly password generator built with React, TypeScript, and Vite. It helps you create strong, complex passwords effortlessly.
+Glyph is a secure and user-friendly password generator built with React, TypeScript, and Vite. It helps you create strong, complex passwords effortlessly.
 
 ## Features
 
