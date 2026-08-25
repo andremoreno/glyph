@@ -39,7 +39,7 @@ function shuffle<T>(arr: T[]): T[] {
   return out;
 }
 
-function pool(set: keyof Omit<CharSet, 'excludeAmbiguous'>): string {
+function pool(set: 'lowercase' | 'uppercase' | 'numbers' | 'symbols'): string {
   return { lowercase: LOWER, uppercase: UPPER, numbers: DIGITS, symbols: SYMBOLS }[set];
 }
 

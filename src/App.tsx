@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
-import { KeyRound, TextCursorInput, ShieldCheck, Sparkles } from 'lucide-react';
+import { KeyRound, TextCursorInput } from 'lucide-react';
 import {
   type CharSet,
   type PassphraseOptions,
